@@ -32,26 +32,26 @@ This project explores key questions about customer behavior in the telecommunica
 | CLTV                 | Customer Lifetime Value |
 
 The dataset was cleaned and normalized before analysis.  
-➡️ <p>  <img src="assets/6.png" alt="Alt text" width="550" /></p>
+<p>  <img src="assets/6.png" alt="Alt text" width="1000" /></p>
 
 ---
 
 ## 📈 Exploratory Data Analysis (EDA)
 
 - Younger customers (<30) use streaming music more.  
-  ➡️ <p>  <img src="assets/7.png" alt="Alt text" width="550" /></p>
+  <p>  <img src="assets/7.png" alt="Alt text" width="550" /></p>
 
 - CLTV and Monthly Charges show weak positive correlation (r ≈ 0.11).  
-  ➡️ *[image from slide 8]*
+ <p>  <img src="assets/8.png" alt="Alt text" width="550" /></p>
 
 - Churn varies by age and internet type — highest among fiber users, lowest for no internet.  
-  ➡️ *[image from slide 11]*
+  <p>  <img src="assets/11.png" alt="Alt text" width="550" /></p>
 
 - Non-churned customers tend to pay more monthly. Both groups have similar ranges and outliers.  
-  ➡️ *[image from slide 12]*
+  <p>  <img src="assets/12.png" alt="Alt text" width="550" /></p>
 
 - Strong negative correlation between Satisfaction Score and Churn.  
-  ➡️ *[image from slide 13]*
+  <p>  <img src="assets/13.png" alt="Alt text" width="550" /></p>
 
 ---
 
@@ -59,7 +59,8 @@ The dataset was cleaned and normalized before analysis.
 
 - **Hotelling’s T² Test** and **MANOVA** both reject the null hypothesis.
 - Indicates significant multivariate differences between churned and non-churned customers.  
-  ➡️ *[image from slides 14–15]*
+  <p align="center">  <img src="assets/14.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/15.png" alt="Alt text" width="550" /></p>
 
 ---
 
