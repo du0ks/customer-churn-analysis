@@ -32,7 +32,7 @@ This project explores key questions about customer behavior in the telecommunica
 | CLTV                 | Customer Lifetime Value |
 
 The dataset was cleaned and normalized before analysis.  
-➡️ *[image from slide 6]*
+➡️ <p align="center">  <img src="assets/6.png" alt="Alt text" width="550" /></p>
 
 ---
 
