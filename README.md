@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-This project analyzes customer churn behavior in a telecommunications company using a real-world dataset. Applied advanced statistical and machine learning techniques—including PCA, MANOVA, logistic regression, clustering, and canonical correlation analysis—to uncover key patterns, reduce dimensionality, and build predictive models. The goal is to gain actionable insights for customer retention and business growth.
+This project analyzes customer churn behavior in a telecommunications company using a subset of real-world dataset. Applied advanced statistical and machine learning techniques—including PCA, MANOVA, logistic regression, clustering, and canonical correlation analysis—to uncover key patterns, reduce dimensionality, and build predictive models. The goal is to gain actionable insights for customer retention and business growth.
 
 ## 🧠 Research Questions
 
