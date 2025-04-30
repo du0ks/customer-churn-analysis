@@ -1,5 +1,9 @@
 # 📊 Telco Customer Churn Analysis
 
+## 📘 Project Overview
+
+This project analyzes customer churn behavior in a telecommunications company using a real-world dataset. We apply advanced statistical and machine learning techniques—including PCA, MANOVA, logistic regression, clustering, and canonical correlation analysis—to uncover key patterns, reduce dimensionality, and build predictive models. The goal is to gain actionable insights for customer retention and business growth.
+
 ## 🧠 Research Questions
 
 This project explores key questions about customer behavior in the telecommunications industry:
