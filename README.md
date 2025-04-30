@@ -39,19 +39,19 @@ The dataset was cleaned and normalized before analysis.
 ## 📈 Exploratory Data Analysis (EDA)
 
 - Younger customers (<30) use streaming music more.  
-  <p>  <img src="assets/7.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/7.png" alt="Alt text" width="550" /></p>
 
 - CLTV and Monthly Charges show weak positive correlation (r ≈ 0.11).  
- <p>  <img src="assets/8.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/8.png" alt="Alt text" width="550" /></p>
 
 - Churn varies by age and internet type — highest among fiber users, lowest for no internet.  
-  <p>  <img src="assets/11.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/11.png" alt="Alt text" width="550" /></p>
 
 - Non-churned customers tend to pay more monthly. Both groups have similar ranges and outliers.  
-  <p>  <img src="assets/12.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/12.png" alt="Alt text" width="550" /></p>
 
 - Strong negative correlation between Satisfaction Score and Churn.  
-  <p>  <img src="assets/13.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/13.png" alt="Alt text" width="550" /></p>
 
 ---
 
@@ -68,19 +68,21 @@ The dataset was cleaned and normalized before analysis.
 
 - PCA applied after scaling.
 - 4 components extracted; PC5 removed due to low variance contribution.  
-  ➡️ *[image from slides 18–21]*
+  <p align="center">  <img src="assets/18.png" alt="Alt text" width="550" /></p>
+  <p align="center">  <img src="assets/21.png" alt="Alt text" width="550" /></p>
 
 **Principal Component Regression (PCR)**:
 - **MSE**: 0.06696  
 - **RMSE**: 0.25876  
-  ➡️ *[image from slide 23]*
+  <p align="center">  <img src="assets/23.png" alt="Alt text" width="550" /></p>
 
 ---
 
 ## 🧱 Factor Analysis
 
 Factor analysis and rotations helped interpret hidden patterns among customer variables.  
-➡️ *[images from slides 24–28]*
+<p align="center">  <img src="assets/24.png" alt="Alt text" width="550" /></p>
+<p align="center">  <img src="assets/28.png" alt="Alt text" width="550" /></p>
 
 ---
 
@@ -93,15 +95,14 @@ Several models were used for churn prediction:
 | Logistic Regression    | Baseline classifier |
 | Decision Tree          | Rule-based, interpretable |
 | K-Nearest Neighbors    | Distance-based learning |
-| LDA / QDA              | Effective class separation  
-  ➡️ *[images from slides 30–33]*
+| LDA / QDA              | Effective class separation |
 
 ---
 
 ## 🧩 Clustering
 
 - Unsupervised clustering revealed behavior-based customer segments.  
-  ➡️ *[images from slides 34–35]*
+ <p align="center">  <img src="assets/clustering.png" alt="Alt text" width="550" /></p>
 
 ---
 
@@ -111,7 +112,7 @@ Several models were used for churn prediction:
 - **Set 2**: Charges, Satisfaction, Streaming, CLTV
 
 Examined multivariate correlation between demographic and financial-service features.  
-➡️ *[images from slides 36–38]*
+<p align="center">  <img src="assets/32.png" alt="Alt text" width="550" /></p>
 
 ---
 
