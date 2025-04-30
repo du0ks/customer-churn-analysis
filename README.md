@@ -32,14 +32,14 @@ This project explores key questions about customer behavior in the telecommunica
 | CLTV                 | Customer Lifetime Value |
 
 The dataset was cleaned and normalized before analysis.  
-➡️ <p align="center">  <img src="assets/6.png" alt="Alt text" width="550" /></p>
+➡️ <p>  <img src="assets/6.png" alt="Alt text" width="550" /></p>
 
 ---
 
 ## 📈 Exploratory Data Analysis (EDA)
 
 - Younger customers (<30) use streaming music more.  
-  ➡️ *[image from slide 7]*
+  ➡️ <p>  <img src="assets/7.png" alt="Alt text" width="550" /></p>
 
 - CLTV and Monthly Charges show weak positive correlation (r ≈ 0.11).  
   ➡️ *[image from slide 8]*
